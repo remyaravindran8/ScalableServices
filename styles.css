@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: white;
+    font-family: 'Candara';
+    text-align: center;
+    background-color: black;
+
+  }
+  
+  table {
+    border-collapse: collapse;
+    font-family: 'Candara';
+    padding: 5px;
+  
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  body {
+    background-image: url("image.jpg");
+    background-color: #cccccc;
+    font-family: 'Candara';
+   }
