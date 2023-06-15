@@ -14,7 +14,8 @@ body {
     border-collapse: collapse;
     font-family: 'Candara';
     padding: 5px;
-  
+    border: 2px solid;
+    
   }
   
   th, td {
